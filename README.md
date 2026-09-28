@@ -14,7 +14,7 @@ My [MarisaOJ Roadmap](https://marisaoj.com/roadmap/) for practicing competitive 
     * [x] [Combine rectangles](https://marisaoj.com/problem/421)
     * [x] [String](https://marisaoj.com/problem/15)
     * [x] [Triangle](https://marisaoj.com/problem/4)
-    * [ ] [Rounded division](https://marisaoj.com/problem/9)
+    * [x] [Rounded division](https://marisaoj.com/problem/9)
     * [ ] [Circle](https://marisaoj.com/problem/534)
     * [ ] [Calculator](https://marisaoj.com/problem/535)
     * [ ] [The smallest and biggest](https://marisaoj.com/problem/5)
