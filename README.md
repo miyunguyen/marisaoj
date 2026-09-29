@@ -3,7 +3,7 @@ My [MarisaOJ Roadmap](https://marisaoj.com/roadmap/) for practicing competitive 
 # Progress
 
 - [ ] [Level 0](https://marisaoj.com/level/0)
-  - [ ] [Input / Output and Condition](https://marisaoj.com/module/1)
+  - [x] [Input / Output and Condition](https://marisaoj.com/module/1)
     * [x] [Hello Marisa](https://marisaoj.com/problem/1)
     * [x] [A + B](https://marisaoj.com/problem/2)
     * [x] [A / B](https://marisaoj.com/problem/3)
@@ -27,8 +27,8 @@ My [MarisaOJ Roadmap](https://marisaoj.com/roadmap/) for practicing competitive 
     * [x] [Uppercase and lowercase](https://marisaoj.com/problem/13)
     * [x] [Letter Counting](https://marisaoj.com/problem/14)
     * [x] [Time format](https://marisaoj.com/problem/416)
-    * [ ] [Electricity bill](https://marisaoj.com/problem/587)
-    * [ ] [Eating mushroom](https://marisaoj.com/problem/588)
+    * [x] [Electricity bill](https://marisaoj.com/problem/587)
+    * [x] [Eating mushroom](https://marisaoj.com/problem/588)
 
 - [ ] Level 1
 - [ ] Level 2
