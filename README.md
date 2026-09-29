@@ -29,7 +29,27 @@ My [MarisaOJ Roadmap](https://marisaoj.com/roadmap/) for practicing competitive 
     * [x] [Time format](https://marisaoj.com/problem/416)
     * [x] [Electricity bill](https://marisaoj.com/problem/587)
     * [x] [Eating mushroom](https://marisaoj.com/problem/588)
-
+  - [ ] [Loop](https://marisaoj.com/module/2)
+    * [ ] [Loop](https://marisaoj.com/problem/499)
+    * [ ] [Even numbers](https://marisaoj.com/problem/314)
+    * [ ] [Factorial](https://marisaoj.com/problem/542)
+    * [ ] [Star Triangle](https://marisaoj.com/problem/16)
+    * [ ] [Folding paper](https://marisaoj.com/problem/402)
+    * [ ] [Fraction](https://marisaoj.com/problem/315)
+    * [ ] [Divisors](https://marisaoj.com/problem/316)
+    * [ ] [Complex Exponentiation](https://marisaoj.com/problem/24)
+    * [ ] [Prime number](https://marisaoj.com/problem/18)
+    * [ ] [Digit Sum](https://marisaoj.com/problem/19)
+    * [ ] [Fibonacci](https://marisaoj.com/problem/20)
+    * [ ] [Read number till eternity](https://marisaoj.com/problem/22)
+    * [ ] [Extremal](https://marisaoj.com/problem/23)
+    * [ ] [Reverse](https://marisaoj.com/problem/517)
+    * [ ] [Mushroom exchanging](https://marisaoj.com/problem/401)
+    * [ ] [Trailing zeros](https://marisaoj.com/problem/42)
+    * [ ] [Decimal to binary](https://marisaoj.com/problem/312)
+    * [ ] [Binary to decimal](https://marisaoj.com/problem/313)
+    * [ ] [Division](https://marisaoj.com/problem/417)
+    * [ ] [Solution](https://marisaoj.com/problem/425)
 - [ ] Level 1
 - [ ] Level 2
 - [ ] Level 3
