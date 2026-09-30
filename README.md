@@ -2,6 +2,7 @@ My [MarisaOJ Roadmap](https://marisaoj.com/roadmap/) for practicing competitive 
 
 # Progress
 
+Python
 - [ ] [Level 0](https://marisaoj.com/level/0)
   - [x] [Input / Output and Condition](https://marisaoj.com/module/1)
     * [x] [Hello Marisa](https://marisaoj.com/problem/1)
@@ -39,9 +40,9 @@ My [MarisaOJ Roadmap](https://marisaoj.com/roadmap/) for practicing competitive 
     * [x] [Divisors](https://marisaoj.com/problem/316)
     * [x] [Complex Exponentiation](https://marisaoj.com/problem/24)
     * [x] [Prime number](https://marisaoj.com/problem/18)
-    * [ ] [Digit Sum](https://marisaoj.com/problem/19)
-    * [ ] [Fibonacci](https://marisaoj.com/problem/20)
-    * [ ] [Read number till eternity](https://marisaoj.com/problem/22)
+    * [x] [Digit Sum](https://marisaoj.com/problem/19)
+    * [x] [Fibonacci](https://marisaoj.com/problem/20)
+    * [x] [Read number till eternity](https://marisaoj.com/problem/22)
     * [ ] [Extremal](https://marisaoj.com/problem/23)
     * [ ] [Reverse](https://marisaoj.com/problem/517)
     * [ ] [Mushroom exchanging](https://marisaoj.com/problem/401)
