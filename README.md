@@ -46,11 +46,11 @@ Python
     * [x] [Extremal](https://marisaoj.com/problem/23)
     * [x] [Reverse](https://marisaoj.com/problem/517)
     * [x] [Mushroom exchanging](https://marisaoj.com/problem/401)
-    * [ ] [Trailing zeros](https://marisaoj.com/problem/42)
-    * [ ] [Decimal to binary](https://marisaoj.com/problem/312)
-    * [ ] [Binary to decimal](https://marisaoj.com/problem/313)
-    * [ ] [Division](https://marisaoj.com/problem/417)
-    * [ ] [Solution](https://marisaoj.com/problem/425)
+    * [x] [Trailing zeros](https://marisaoj.com/problem/42)
+    * [x] [Decimal to binary](https://marisaoj.com/problem/312)
+    * [x] [Binary to decimal](https://marisaoj.com/problem/313)
+    * [x] [Division](https://marisaoj.com/problem/417)
+    * [x] [Solution](https://marisaoj.com/problem/425)
 - [ ] Level 1
 - [ ] Level 2
 - [ ] Level 3
