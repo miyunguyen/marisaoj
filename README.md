@@ -30,7 +30,7 @@ Python
     * [x] [Time format](https://marisaoj.com/problem/416)
     * [x] [Electricity bill](https://marisaoj.com/problem/587)
     * [x] [Eating mushroom](https://marisaoj.com/problem/588)
-  - [ ] [Loop](https://marisaoj.com/module/2)
+  - [x] [Loop](https://marisaoj.com/module/2)
     * [x] [Loop](https://marisaoj.com/problem/499)
     * [x] [Even numbers](https://marisaoj.com/problem/314)
     * [x] [Factorial](https://marisaoj.com/problem/542)
