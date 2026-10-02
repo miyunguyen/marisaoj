@@ -53,7 +53,7 @@ Python
     * [x] [Solution](https://marisaoj.com/problem/425)
 
   - [ ] [Array](https://marisaoj.com/module/3)
-    * [ ] [Even elements](https://marisaoj.com/problem/405)
+    * [x] [Even elements](https://marisaoj.com/problem/405)
     * [ ] [Smallest value](https://marisaoj.com/problem/536)
     * [ ] [Average](https://marisaoj.com/problem/541)
     * [ ] [Array reversal](https://marisaoj.com/problem/537)
