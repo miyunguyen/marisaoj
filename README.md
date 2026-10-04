@@ -59,7 +59,7 @@ Python
     * [x] [Array reversal](https://marisaoj.com/problem/537)
     * [x] [Negative and positive](https://marisaoj.com/problem/538)
     * [x] [Consecutive differences](https://marisaoj.com/problem/540)
-    * [ ] [Largest value](https://marisaoj.com/problem/406)
+    * [x] [Largest value](https://marisaoj.com/problem/406)
     * [ ] [Positive and negative](https://marisaoj.com/problem/539)
     * [ ] [Dominant element](https://marisaoj.com/problem/409)
     * [ ] [Second largest](https://marisaoj.com/problem/31)
