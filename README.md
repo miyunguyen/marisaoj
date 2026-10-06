@@ -66,7 +66,7 @@ Python
     * [x] [Maximum product](https://marisaoj.com/problem/27)
     * [x] [Array rotation](https://marisaoj.com/problem/408)
     * [x] [Palindrome array](https://marisaoj.com/problem/26)
-    * [ ] [Circle](https://marisaoj.com/problem/422)
+    * [x] [Circle](https://marisaoj.com/problem/422)
     * [ ] [Insert](https://marisaoj.com/problem/32)
     * [ ] [Positive subarray](https://marisaoj.com/problem/33)
     * [ ] [Sorting](https://marisaoj.com/problem/34)
