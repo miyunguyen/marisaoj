@@ -68,7 +68,7 @@ Python
     * [x] [Palindrome array](https://marisaoj.com/problem/26)
     * [x] [Circle](https://marisaoj.com/problem/422)
     * [x] [Insert](https://marisaoj.com/problem/32)
-    * [ ] [Positive subarray](https://marisaoj.com/problem/33)
+    * [x] [Positive subarray](https://marisaoj.com/problem/33)
     * [ ] [Sorting](https://marisaoj.com/problem/34)
     * [ ] [Similar Arrays](https://marisaoj.com/problem/35)
     * [ ] [Unique](https://marisaoj.com/problem/37)
