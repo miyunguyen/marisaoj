@@ -69,7 +69,7 @@ Python
     * [x] [Circle](https://marisaoj.com/problem/422)
     * [x] [Insert](https://marisaoj.com/problem/32)
     * [x] [Positive subarray](https://marisaoj.com/problem/33)
-    * [ ] [Sorting](https://marisaoj.com/problem/34)
+    * [x] [Sorting](https://marisaoj.com/problem/34)
     * [ ] [Similar Arrays](https://marisaoj.com/problem/35)
     * [ ] [Unique](https://marisaoj.com/problem/37)
     * [ ] [Unique 2](https://marisaoj.com/problem/36)

@@ -10,7 +10,7 @@ solve()
 
 
 def first_solve():
-    pass
+    print(*sorted(nums))
 
 
 first_solve()
