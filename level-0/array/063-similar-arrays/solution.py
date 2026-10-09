@@ -1,5 +1,6 @@
 n = int(input())
-nums = list(map(int, input().split()))
+nums1 = list(map(int, input().split()))
+nums2 = list(map(int, input().split()))
 
 
 def solve():
@@ -10,7 +11,14 @@ solve()
 
 
 def first_solve():
-    pass
+
+    nums1.sort()
+    nums2.sort()
+
+    if nums1 == nums2:
+        print("YES")
+    else:
+        print("NO")
 
 
 first_solve()

@@ -3,14 +3,16 @@ nums = list(map(int, input().split()))
 
 
 def solve():
-    pass
+    for i in range(n):
+        if nums[i] != nums[i - 1] or i == 0:
+            print(nums[i], end=" ")
 
 
 solve()
 
 
 def first_solve():
-    pass
+    print(*sorted(set(nums)))
 
 
-first_solve()
+# first_solve()
