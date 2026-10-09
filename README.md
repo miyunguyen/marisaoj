@@ -77,6 +77,19 @@ Python
     * [x] [Most Frequent Value](https://marisaoj.com/problem/29)
     * [x] [Bitonic sequence](https://marisaoj.com/problem/430)
     * [x] [Swap](https://marisaoj.com/problem/528)
+
+  - [ ] [Two dimensional array](https://marisaoj.com/module/63)
+    * [ ] [Pascal's triangle](https://marisaoj.com/problem/30)
+    * [ ] [Column sum](https://marisaoj.com/problem/38)
+    * [ ] [Appearance](https://marisaoj.com/problem/586)
+    * [ ] [Diagonal sum](https://marisaoj.com/problem/39)
+    * [ ] [Point coverage](https://marisaoj.com/problem/40)
+    * [ ] [Swap operation](https://marisaoj.com/problem/41)
+    * [ ] [Spiral matrix](https://marisaoj.com/problem/407)
+    * [ ] [Word search](https://marisaoj.com/problem/433)
+    * [ ] [Matrix rotation](https://marisaoj.com/problem/432)
+    * [ ] [Matrix Zigzag](https://marisaoj.com/problem/434)
+    * [ ] [Images downsampling](https://marisaoj.com/problem/751)
 - [ ] Level 1
 - [ ] Level 2
 - [ ] Level 3
