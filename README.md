@@ -73,9 +73,9 @@ Python
     * [x] [Similar Arrays](https://marisaoj.com/problem/35)
     * [x] [Unique](https://marisaoj.com/problem/37)
     * [x] [Unique 2](https://marisaoj.com/problem/36)
-    * [ ] [Frequent value](https://marisaoj.com/problem/28)
-    * [ ] [Most Frequent Value](https://marisaoj.com/problem/29)
-    * [ ] [Bitonic sequence](https://marisaoj.com/problem/430)
+    * [x] [Frequent value](https://marisaoj.com/problem/28)
+    * [x] [Most Frequent Value](https://marisaoj.com/problem/29)
+    * [x] [Bitonic sequence](https://marisaoj.com/problem/430)
     * [ ] [Swap](https://marisaoj.com/problem/528)
 - [ ] Level 1
 - [ ] Level 2

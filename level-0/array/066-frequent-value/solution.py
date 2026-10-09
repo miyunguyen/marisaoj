@@ -10,7 +10,18 @@ solve()
 
 
 def first_solve():
-    pass
+    freq = {}
+
+    for num in nums:
+        freq[num] = freq.get(num, 0) + 1
+
+    count = 0
+
+    for v in freq.values():
+        if v > 2:
+            count += 1
+
+    print(count)
 
 
 first_solve()
