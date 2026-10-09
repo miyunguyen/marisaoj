@@ -52,7 +52,7 @@ Python
     * [x] [Division](https://marisaoj.com/problem/417)
     * [x] [Solution](https://marisaoj.com/problem/425)
 
-  - [ ] [Array](https://marisaoj.com/module/3)
+  - [x] [Array](https://marisaoj.com/module/3)
     * [x] [Even elements](https://marisaoj.com/problem/405)
     * [x] [Smallest value](https://marisaoj.com/problem/536)
     * [x] [Average](https://marisaoj.com/problem/541)
@@ -76,7 +76,7 @@ Python
     * [x] [Frequent value](https://marisaoj.com/problem/28)
     * [x] [Most Frequent Value](https://marisaoj.com/problem/29)
     * [x] [Bitonic sequence](https://marisaoj.com/problem/430)
-    * [ ] [Swap](https://marisaoj.com/problem/528)
+    * [x] [Swap](https://marisaoj.com/problem/528)
 - [ ] Level 1
 - [ ] Level 2
 - [ ] Level 3
