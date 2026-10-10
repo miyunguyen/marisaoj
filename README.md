@@ -79,8 +79,8 @@ Python
     * [x] [Swap](https://marisaoj.com/problem/528)
 
   - [ ] [Two dimensional array](https://marisaoj.com/module/63)
-    * [ ] [Pascal's triangle](https://marisaoj.com/problem/30)
-    * [ ] [Column sum](https://marisaoj.com/problem/38)
+    * [x] [Pascal's triangle](https://marisaoj.com/problem/30)
+    * [x] [Column sum](https://marisaoj.com/problem/38)
     * [ ] [Appearance](https://marisaoj.com/problem/586)
     * [ ] [Diagonal sum](https://marisaoj.com/problem/39)
     * [ ] [Point coverage](https://marisaoj.com/problem/40)
