@@ -81,7 +81,7 @@ Python
   - [ ] [Two dimensional array](https://marisaoj.com/module/63)
     * [x] [Pascal's triangle](https://marisaoj.com/problem/30)
     * [x] [Column sum](https://marisaoj.com/problem/38)
-    * [ ] [Appearance](https://marisaoj.com/problem/586)
+    * [x] [Appearance](https://marisaoj.com/problem/586)
     * [ ] [Diagonal sum](https://marisaoj.com/problem/39)
     * [ ] [Point coverage](https://marisaoj.com/problem/40)
     * [ ] [Swap operation](https://marisaoj.com/problem/41)
