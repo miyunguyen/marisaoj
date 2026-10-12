@@ -83,7 +83,7 @@ Python
     * [x] [Column sum](https://marisaoj.com/problem/38)
     * [x] [Appearance](https://marisaoj.com/problem/586)
     * [x] [Diagonal sum](https://marisaoj.com/problem/39)
-    * [ ] [Point coverage](https://marisaoj.com/problem/40)
+    * [x] [Point coverage](https://marisaoj.com/problem/40)
     * [ ] [Swap operation](https://marisaoj.com/problem/41)
     * [ ] [Spiral matrix](https://marisaoj.com/problem/407)
     * [ ] [Word search](https://marisaoj.com/problem/433)
