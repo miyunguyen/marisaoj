@@ -85,7 +85,7 @@ Python
     * [x] [Diagonal sum](https://marisaoj.com/problem/39)
     * [x] [Point coverage](https://marisaoj.com/problem/40)
     * [x] [Swap operation](https://marisaoj.com/problem/41)
-    * [ ] [Spiral matrix](https://marisaoj.com/problem/407)
+    * [x] [Spiral matrix](https://marisaoj.com/problem/407)
     * [ ] [Word search](https://marisaoj.com/problem/433)
     * [ ] [Matrix rotation](https://marisaoj.com/problem/432)
     * [ ] [Matrix Zigzag](https://marisaoj.com/problem/434)
