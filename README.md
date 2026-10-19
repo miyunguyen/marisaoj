@@ -87,7 +87,7 @@ Python
     * [x] [Swap operation](https://marisaoj.com/problem/41)
     * [x] [Spiral matrix](https://marisaoj.com/problem/407)
     * [x] [Word search](https://marisaoj.com/problem/433)
-    * [ ] [Matrix rotation](https://marisaoj.com/problem/432)
+    * [x] [Matrix rotation](https://marisaoj.com/problem/432)
     * [ ] [Matrix Zigzag](https://marisaoj.com/problem/434)
     * [ ] [Images downsampling](https://marisaoj.com/problem/751)
 - [ ] Level 1

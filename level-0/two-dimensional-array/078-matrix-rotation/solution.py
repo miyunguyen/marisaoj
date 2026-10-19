@@ -1,4 +1,4 @@
-n, m = map(int, input().split())
+n = int(input())
 
 mat = []
 for i in range(n):
@@ -13,7 +13,15 @@ solve()
 
 
 def first_solve():
-    pass
+    for i in range(n):
+        for j in range(i + 1, n):
+            mat[i][j], mat[j][i] = mat[j][i], mat[i][j]
+
+    for row in mat:
+        row.reverse()
+
+    for row in mat:
+        print(*row)
 
 
 first_solve()
