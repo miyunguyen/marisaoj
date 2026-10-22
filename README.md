@@ -78,7 +78,7 @@ Python
     * [x] [Bitonic sequence](https://marisaoj.com/problem/430)
     * [x] [Swap](https://marisaoj.com/problem/528)
 
-  - [ ] [Two dimensional array](https://marisaoj.com/module/63)
+  - [x] [Two dimensional array](https://marisaoj.com/module/63)
     * [x] [Pascal's triangle](https://marisaoj.com/problem/30)
     * [x] [Column sum](https://marisaoj.com/problem/38)
     * [x] [Appearance](https://marisaoj.com/problem/586)
