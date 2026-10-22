@@ -90,6 +90,24 @@ Python
     * [x] [Matrix rotation](https://marisaoj.com/problem/432)
     * [x] [Matrix Zigzag](https://marisaoj.com/problem/434)
     * [x] [Images downsampling](https://marisaoj.com/problem/751)
+
+  - [ ] [String](https://marisaoj.com/module/4)
+    * [ ] [Length](https://marisaoj.com/problem/43)
+    * [ ] [Word Count](https://marisaoj.com/problem/44)
+    * [ ] [lowercase](https://marisaoj.com/problem/410)
+    * [ ] [Vowel](https://marisaoj.com/problem/411)
+    * [ ] [Digit sum](https://marisaoj.com/problem/414)
+    * [ ] [Strong password](https://marisaoj.com/problem/45)
+    * [ ] [Letter frequencies](https://marisaoj.com/problem/50)
+    * [ ] [Palindrome string](https://marisaoj.com/problem/46)
+    * [ ] [Palindrome substring](https://marisaoj.com/problem/47)
+    * [ ] [Caesar cipher](https://marisaoj.com/problem/412)
+    * [ ] [String occurences](https://marisaoj.com/problem/48)
+    * [ ] [Sum](https://marisaoj.com/problem/415)
+    * [ ] [String normalization](https://marisaoj.com/problem/413)
+    * [ ] [Run-length encoding](https://marisaoj.com/problem/403)
+    * [ ] [Expression](https://marisaoj.com/problem/584)
+
 - [ ] Level 1
 - [ ] Level 2
 - [ ] Level 3
