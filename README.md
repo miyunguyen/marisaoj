@@ -89,7 +89,7 @@ Python
     * [x] [Word search](https://marisaoj.com/problem/433)
     * [x] [Matrix rotation](https://marisaoj.com/problem/432)
     * [x] [Matrix Zigzag](https://marisaoj.com/problem/434)
-    * [ ] [Images downsampling](https://marisaoj.com/problem/751)
+    * [x] [Images downsampling](https://marisaoj.com/problem/751)
 - [ ] Level 1
 - [ ] Level 2
 - [ ] Level 3
