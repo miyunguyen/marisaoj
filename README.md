@@ -92,7 +92,7 @@ Python
     * [x] [Images downsampling](https://marisaoj.com/problem/751)
 
   - [ ] [String](https://marisaoj.com/module/4)
-    * [ ] [Length](https://marisaoj.com/problem/43)
+    * [x] [Length](https://marisaoj.com/problem/43)
     * [ ] [Word Count](https://marisaoj.com/problem/44)
     * [ ] [lowercase](https://marisaoj.com/problem/410)
     * [ ] [Vowel](https://marisaoj.com/problem/411)
