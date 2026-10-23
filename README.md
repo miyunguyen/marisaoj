@@ -94,7 +94,7 @@ Python
   - [ ] [String](https://marisaoj.com/module/4)
     * [x] [Length](https://marisaoj.com/problem/43)
     * [x] [Word Count](https://marisaoj.com/problem/44)
-    * [ ] [lowercase](https://marisaoj.com/problem/410)
+    * [x] [lowercase](https://marisaoj.com/problem/410)
     * [ ] [Vowel](https://marisaoj.com/problem/411)
     * [ ] [Digit sum](https://marisaoj.com/problem/414)
     * [ ] [Strong password](https://marisaoj.com/problem/45)
