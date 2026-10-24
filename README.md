@@ -97,7 +97,7 @@ Python
     * [x] [lowercase](https://marisaoj.com/problem/410)
     * [x] [Vowel](https://marisaoj.com/problem/411)
     * [x] [Digit sum](https://marisaoj.com/problem/414)
-    * [ ] [Strong password](https://marisaoj.com/problem/45)
+    * [x] [Strong password](https://marisaoj.com/problem/45)
     * [ ] [Letter frequencies](https://marisaoj.com/problem/50)
     * [ ] [Palindrome string](https://marisaoj.com/problem/46)
     * [ ] [Palindrome substring](https://marisaoj.com/problem/47)
