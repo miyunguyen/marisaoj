@@ -11,7 +11,7 @@ solve()
 def first_solve():
     is_palindrome = True
 
-    for i in range(0, len(s) // 2):
+    for i in range(len(s) // 2):
         if s[i] != s[len(s) - i - 1]:
             is_palindrome = False
 
