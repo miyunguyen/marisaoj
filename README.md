@@ -102,7 +102,7 @@ Python
     * [x] [Palindrome string](https://marisaoj.com/problem/46)
     * [x] [Palindrome substring](https://marisaoj.com/problem/47)
     * [x] [Caesar cipher](https://marisaoj.com/problem/412)
-    * [ ] [String occurences](https://marisaoj.com/problem/48)
+    * [x] [String occurences](https://marisaoj.com/problem/48)
     * [ ] [Sum](https://marisaoj.com/problem/415)
     * [ ] [String normalization](https://marisaoj.com/problem/413)
     * [ ] [Run-length encoding](https://marisaoj.com/problem/403)
