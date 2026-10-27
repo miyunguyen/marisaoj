@@ -105,7 +105,7 @@ Python
     * [x] [String occurences](https://marisaoj.com/problem/48)
     * [x] [Sum](https://marisaoj.com/problem/415)
     * [x] [String normalization](https://marisaoj.com/problem/413)
-    * [ ] [Run-length encoding](https://marisaoj.com/problem/403)
+    * [x] [Run-length encoding](https://marisaoj.com/problem/403)
     * [ ] [Expression](https://marisaoj.com/problem/584)
 
 - [ ] Level 1
