@@ -91,7 +91,7 @@ Python
     * [x] [Matrix Zigzag](https://marisaoj.com/problem/434)
     * [x] [Images downsampling](https://marisaoj.com/problem/751)
 
-  - [ ] [String](https://marisaoj.com/module/4)
+  - [x] [String](https://marisaoj.com/module/4)
     * [x] [Length](https://marisaoj.com/problem/43)
     * [x] [Word Count](https://marisaoj.com/problem/44)
     * [x] [lowercase](https://marisaoj.com/problem/410)
