@@ -106,7 +106,7 @@ Python
     * [x] [Sum](https://marisaoj.com/problem/415)
     * [x] [String normalization](https://marisaoj.com/problem/413)
     * [x] [Run-length encoding](https://marisaoj.com/problem/403)
-    * [ ] [Expression](https://marisaoj.com/problem/584)
+    * [x] [Expression](https://marisaoj.com/problem/584)
 
 - [ ] Level 1
 - [ ] Level 2
