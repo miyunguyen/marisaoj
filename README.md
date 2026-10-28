@@ -108,6 +108,16 @@ Python
     * [x] [Run-length encoding](https://marisaoj.com/problem/403)
     * [x] [Expression](https://marisaoj.com/problem/584)
 
+  - [ ] [Other problems](https://marisaoj.com/module/6)
+    * [ ] [Sum of divisors](https://marisaoj.com/problem/17)
+    * [ ] [Equal pairs](https://marisaoj.com/problem/51)
+    * [ ] [GCD and LCM](https://marisaoj.com/problem/52)
+    * [ ] [3](https://marisaoj.com/problem/428)
+    * [ ] [String queries](https://marisaoj.com/problem/693)
+    * [ ] [Consecutive](https://marisaoj.com/problem/75)
+    * [ ] [Prison](https://marisaoj.com/problem/531)
+    * [ ] [Small language model](https://marisaoj.com/problem/753)
+
 - [ ] Level 1
 - [ ] Level 2
 - [ ] Level 3
