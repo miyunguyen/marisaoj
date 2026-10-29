@@ -110,7 +110,7 @@ Python
 
   - [ ] [Other problems](https://marisaoj.com/module/6)
     * [x] [Sum of divisors](https://marisaoj.com/problem/17)
-    * [ ] [Equal pairs](https://marisaoj.com/problem/51)
+    * [x] [Equal pairs](https://marisaoj.com/problem/51)
     * [ ] [GCD and LCM](https://marisaoj.com/problem/52)
     * [ ] [3](https://marisaoj.com/problem/428)
     * [ ] [String queries](https://marisaoj.com/problem/693)
