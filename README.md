@@ -112,7 +112,7 @@ Python
     * [x] [Sum of divisors](https://marisaoj.com/problem/17)
     * [x] [Equal pairs](https://marisaoj.com/problem/51)
     * [x] [GCD and LCM](https://marisaoj.com/problem/52)
-    * [ ] [3](https://marisaoj.com/problem/428)
+    * [x] [3](https://marisaoj.com/problem/428)
     * [ ] [String queries](https://marisaoj.com/problem/693)
     * [ ] [Consecutive](https://marisaoj.com/problem/75)
     * [ ] [Prison](https://marisaoj.com/problem/531)
