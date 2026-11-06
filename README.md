@@ -113,7 +113,7 @@ Python
     * [x] [Equal pairs](https://marisaoj.com/problem/51)
     * [x] [GCD and LCM](https://marisaoj.com/problem/52)
     * [x] [3](https://marisaoj.com/problem/428)
-    * [ ] [String queries](https://marisaoj.com/problem/693)
+    * [x] [String queries](https://marisaoj.com/problem/693)
     * [ ] [Consecutive](https://marisaoj.com/problem/75)
     * [ ] [Prison](https://marisaoj.com/problem/531)
     * [ ] [Small language model](https://marisaoj.com/problem/753)
